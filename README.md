@@ -2,7 +2,7 @@
  réaliser un jeu complet avec la notion de Sprite. Le thème est l'univers de "Guerre des Etoiles".
 Un objectif possible du jeux est de faire bouger le robot ‘R2D2.png’ sur un fond de sable (air de jeu : ‘desert_sand.jpg’) pour qu'il "attrape" les avions. Il doit cependant eviter ‘darthvader.png’. Chaque avion vaut un certain nombre de points, "darthvader" fait diminuer ce nombre de points. Le jeux se termine après en temps donné, par exemple 3 minutes 
 
-NB : vous trouverez un fichier .rar qui contient toutes les images qu’il faut utilisé.
+NB : vous trouverez un fichier « imageAutilisé.zip » qui contient toutes les images qu’il faut utilisé.
 
 Voici de qui est obligatoire :
 
@@ -20,5 +20,6 @@ Structure : Vous devez avoir la classe Sprite qui représente un objet que l'on 
 
 Interactivité : ce jeux doit se jouer en temps réel de manière interactive.
 
-La manière simple de gérer les collisions c'est de définir un masque de collision appelé aussi hit box. (vous trouverez dans le meme fichier .rar une capture qui montre a quoi doit ressembler ce jeu)
+La manière simple de gérer les collisions c'est de définir un masque de collision appelé aussi hit box. (vous trouverez dans le meme fichier « imageAutilisé.zip » une capture qui montre a quoi doit ressembler ce jeu)
+
 
