@@ -5,11 +5,18 @@ Un objectif possible du jeux est de faire bouger le robot pour qu'il "attrape" l
 Voici de qui est obligatoire :
 
 Originalité : le jeux et son codage doivent être 100% votre production de code personelle.
+
 Codage : Il doit être programmé en Javascript pur, c'est à dire sans aucune librairie externe. Seul Javascript et ses objets prédéfinits sont autorisés. De même, cela doit être du HTML et CSS pur, sans aucune librarie.
+
 Orientation objet : le jeux doit être programmé en utilisant au minimum 2 classes en relation d'héritage avec la notation symplifiée avec le mot clé class.
+
 Fonctions constructeur : vous devez utiliser au moins une fonction constructeur. D'autres objets sans prototype, ou qui ne sont pas produit par une fonction constructeur sont bien sûr possibles.
+
 Fonctions simples : l'usage de simples fonctions doit être limité : préférer l'usage de méthodes.
+
 Structure : Vous devez avoir la classe Sprite qui représente un objet que l'on peut déplacer dans l'aire de jeux. Vous devez avoir la notion de Position qui représente des points sur l'aire de jeu en 2D.
+
 Interactivité : ce jeux doit se jouer en temps réel de manière interactive.
+
 La manière simple de gérer ces collisions c'est de définir un masque de collision appelé aussi hit box.
 
